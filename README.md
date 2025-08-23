@@ -1,7 +1,7 @@
 # Hello! I'm Yuntian
 
 ## I'm working on
-> C'mon Labs IncInc
+> C'mon Labs INC
 
 ## 🛠  Tech Stack 
 ### Langs
@@ -37,11 +37,21 @@
 <img
 </div>
 
+### Automation / LLMs - Agents tools
+<img src="https://img.shields.io/badge/n8n-282C34?logo=n8n&logoColor=EA4B71" alt="n8n logo" title="n8n" height="25" />
+<img src="https://img.shields.io/badge/OpenAI-282C34?logo=openai&logoColor=412991" alt="OpenAI logo" title="OpenAI" height="25" />
+<img src="https://img.shields.io/badge/Cursor_IDE-282C34" alt="Cursor logo" title="cursor" height="25" />
+<img src="https://img.shields.io/badge/Coderabbit-282C34?logo=coderabbit&logoColor=FF570A" alt="coderabbit logo" title="coderabbit" height="25" />
+
+
 
 ## 📖  What I am currently learning / improving on
 
 <div>
-  <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />
+  <img src="https://img.shields.io/badge/n8n-282C34?logo=n8n&logoColor=EA4B71" alt="n8n logo" title="n8n" height="25" />
+   <img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" />
+     <img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&logoColor=FF6600" alt="rabbitmq logo" title="rabbitmq" height="25" />
+     <img src="https://img.shields.io/badge/Apache_Kafka-282C34?logo=apachekafka&logoColor=231F20" alt="apachekafka logo" title="Apache_Kafka" height="25" />
 </div>
 
 ---
