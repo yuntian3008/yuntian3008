@@ -1,64 +1,42 @@
-# Hello! I'm Yuntian
+# Yuntian
 
-## I'm working on
-> C'mon Labs INC
+Full-stack engineer building software end-to-end with AI agents in the loop.
+Long-form work at C'mon Labs.
 
-## 🛠  Tech Stack 
-### Langs
-<div>
-  <img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />
-  <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" alt="PHP logo" title="PHP" height="25" />
-  <img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin&logoColor=7F52FF" alt="Kotlin logo" title="Kotlin" height="25" />
-  <img src="https://img.shields.io/badge/C++-282C34?logo=c%2B%2B&logoColor=00599C" alt="TypeScript logo" title="TypeScript" height="25" />
-</div>
+## How I build with AI agents
 
-### Web / App
-<div>
-<img src="https://img.shields.io/badge/Android-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
-  <img src="https://img.shields.io/badge/Shadcn%2FUI%20CSS-282C34?logo=shadcn%2Fui&logoColor=000000" alt="ShadcnUI logo" title="ShadcnUI" height="25" />
-<img src="https://img.shields.io/badge/React-React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />
-<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
-</div>
+I treat AI agents as collaborators in the loop, not just autocomplete.
 
-### Back-End
+- **Design before code.** Every non-trivial feature starts with a brainstorm
+  and a short written spec.
+- **Parallel agents for disjoint work.** I split plans into independent tasks,
+  dispatch them in parallel, then review and stitch the results.
+- **Custom skills as muscle memory.** Repeatable workflows become one-command
+  agent recipes I can re-run.
+- **Extended tool surface via MCP and n8n.** I wire agents to the systems they
+  need — databases, observability, automation — instead of feeding them
+  guesswork.
 
-<div>
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
-<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
-  <img src="https://img.shields.io/badge/NestJS-282C34?logo=nestjs&logoColor=E0234E" alt="Nestjs logo" title="Nestjs" height="25" />
-<img src="https://img.shields.io/badge/Postgres-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="25" />
-<img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=FF4438" alt="Redis logo" title="Redis" height="25" />
-  <img src="https://img.shields.io/badge/Socket.io-282C34?logo=socket.io&logoColor=010101" alt="SocketIO logo" title="Socket.io" height="25" />
-  <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="25" />
-  <img src="https://img.shields.io/badge/Github Action-CI/CD-282C34?logo=githubactions&logoColor=2088FF" alt="GHA logo" title="GHA" height="25" />
-  <img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" />
-<img
-</div>
+## Selected work
 
-### Automation / LLMs - Agents tools
-<img src="https://img.shields.io/badge/n8n-282C34?logo=n8n&logoColor=EA4B71" alt="n8n logo" title="n8n" height="25" />
-<img src="https://img.shields.io/badge/OpenAI-282C34?logo=openai&logoColor=412991" alt="OpenAI logo" title="OpenAI" height="25" />
-<img src="https://img.shields.io/badge/Cursor_IDE-282C34" alt="Cursor logo" title="cursor" height="25" />
-<img src="https://img.shields.io/badge/Coderabbit-282C34?logo=coderabbit&logoColor=FF570A" alt="coderabbit logo" title="coderabbit" height="25" />
+- **[through-shower](https://github.com/yuntian3008/through-shower)** — Claude
+  Code plugin: 6-stage pipeline (branch setup → brainstorming → finishing →
+  Codex review → CodeRabbit review → merge handoff).
+- **[BetterPrompt](https://betterprompt.me)** — production AI product I'm
+  building at C'mon Labs.
+- **[yuntian.dev](https://yuntian.dev/)** — personal site and case studies.
+- **[bun-i2c](https://github.com/yuntian3008/bun-i2c)** — zero-dependency I2C
+  wrapper for Bun via `bun:ffi`. Linux syscalls, no native addons.
+- **[blackat](https://github.com/yuntian3008/blackat)** — end-to-end encrypted
+  messaging system.
 
+## Tech I reach for
 
+TypeScript end-to-end. Node.js · Next.js · React Native · PostgreSQL ·
+Drizzle · Redis · BullMQ · Bun · Docker · GitHub Actions · AWS.
+For AI: any coding agent (Claude Code, Codex, …) — and I write the skills,
+plugins, and workflows that extend them.
 
-## 📖  What I am currently learning / improving on
+## Contact
 
-<div>
-  <img src="https://img.shields.io/badge/n8n-282C34?logo=n8n&logoColor=EA4B71" alt="n8n logo" title="n8n" height="25" />
-   <img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" />
-     <img src="https://img.shields.io/badge/RabbitMQ-282C34?logo=rabbitmq&logoColor=FF6600" alt="rabbitmq logo" title="rabbitmq" height="25" />
-     <img src="https://img.shields.io/badge/Apache_Kafka-282C34?logo=apachekafka&logoColor=231F20" alt="apachekafka logo" title="Apache_Kafka" height="25" />
-</div>
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yuntian3008&theme=merko" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat" style="margin-left:20px;">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuntian3008&layout=compact&langs_count=8&card_width=320&theme=merko" />
-</a>
+[contact@yuntian.dev](mailto:contact@yuntian.dev) · [LinkedIn](https://www.linkedin.com/in/thienslink/) · [yuntian.dev](https://yuntian.dev/)
