@@ -1,0 +1,27 @@
+{
+  "name": "yuntian3008",
+  "owner": {
+    "name": "Yuntian"
+  },
+  "metadata": {
+    "description": "Yuntian's personal Claude Code plugins.",
+    "version": "0.1.0"
+  },
+  "allowCrossMarketplaceDependenciesOn": [
+    "claude-plugins-official",
+    "openai-codex"
+  ],
+  "plugins": [
+    {
+      "name": "thought-shower",
+      "description": "Personal workflow toolkit — currently a 6-stage shipping pipeline plus reusable skills (review-turn, visualize-as-html).",
+      "author": {
+        "name": "Yuntian"
+      },
+      "source": {
+        "type": "github",
+        "repo": "yuntian3008/thought-shower"
+      }
+    }
+  ]
+}
