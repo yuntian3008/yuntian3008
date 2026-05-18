@@ -19,7 +19,7 @@ I treat AI agents as collaborators in the loop, not just autocomplete.
 
 ## Selected work
 
-- **[through-shower](https://github.com/yuntian3008/through-shower)** — Claude
+- **[thought-shower](https://github.com/yuntian3008/thought-shower)** — Claude
   Code plugin: 6-stage pipeline (branch setup → brainstorming → finishing →
   Codex review → CodeRabbit review → merge handoff).
 - **[BetterPrompt](https://betterprompt.me)** — production AI product I'm
