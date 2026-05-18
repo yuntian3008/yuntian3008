@@ -19,8 +19,8 @@
         "name": "Yuntian"
       },
       "source": {
-        "type": "github",
-        "repo": "yuntian3008/thought-shower"
+        "source": "url",
+        "url": "https://github.com/yuntian3008/thought-shower.git"
       }
     }
   ]
