@@ -22,6 +22,7 @@ I treat AI agents as collaborators in the loop, not just autocomplete.
 - **[thought-shower](https://github.com/yuntian3008/thought-shower)** — Claude
   Code plugin: 6-stage pipeline (branch setup → brainstorming → finishing →
   Codex review → CodeRabbit review → merge handoff).
+  - Install: `/plugin marketplace add yuntian3008/yuntian3008` then `/plugin install thought-shower@yuntian3008`
 - **[BetterPrompt](https://betterprompt.me)** — production AI product I'm
   building at C'mon Labs.
 - **[yuntian.dev](https://yuntian.dev/)** — personal site and case studies.
